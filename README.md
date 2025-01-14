@@ -1,0 +1,4 @@
+- Milk
+- Eggs
+- Feta
+- Cucumbers
