@@ -2,3 +2,5 @@
 - Eggs
 - Feta
 - Cucumbers
+- Toner
+- Face wash
